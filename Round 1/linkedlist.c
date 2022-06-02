@@ -32,15 +32,13 @@ int main()
         }
         printf("Do you want (0,1)?\n");
         scanf("%d", &choice);
-        printf("Traversing\n");
-        temp = head;
-        while(temp != 0)
-        {
-            printf("data = %d", temp -> data);
-            temp = temp -> next;
-        }
-        getch();
-    }
-   
+    }    
+    printf("Traversing\n");
+    temp = head;
+    while(temp != 0)
+    {
+        printf("data = %d\n", temp -> data);
+        temp = temp -> next;
+    } 
     return 0;
 }
