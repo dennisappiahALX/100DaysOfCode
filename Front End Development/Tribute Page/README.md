@@ -1,2 +1,0 @@
-# Tribute Page
-
