@@ -1,19 +1,19 @@
 # I, Dennis, have committed to join the #100DaysOfCode challenge.
 
-## Round 1
-* Round 1 started on Monday 2nd May, 2022
+## DSA-C
+* DSA-C started on Monday 2nd May, 2022
 * Expected End Date 30th May, 2022
-* Round 1 is the repo for all personal practice codes for Data Structures and Algos in C Program
+* DSA-C is the repo for all personal practice codes for Data Structures and Algos in C Program
 
-## Round 2
-* Round 2 is expected to start on 1st June, 2022
+## DSA-Python
+* DSA-Python is expected to start on 1st June, 2022
 * Expected End Date 30th June, 2022
-* Round 2 is the repo for all personal practice codes for Data Structures and Algos in Python
+* DSA-Python is the repo for all personal practice codes for Data Structures and Algos in Python
 
-## Round 3
-* Round 3 is expected to start on 1st July, 2022
+## DSA-Javascript
+* DSA-Javascript is expected to start on 1st July, 2022
 * Expected End Date 8th August, 2022
-* Round 3 is the repo for all personal practice codes for Data Structures and Algos in Javascript 
+* DSA-Javascript is the repo for all personal practice codes for Data Structures and Algos in Javascript 
 
 
 *I [tweet](https://twitter.com/kofi_tech) out my daily progress with the #100DaysOfCode hashtag.*
