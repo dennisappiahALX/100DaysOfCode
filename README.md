@@ -10,11 +10,6 @@
 * Expected End Date 30th June, 2022
 * DSA-Python is the repo for all personal practice codes for Data Structures and Algos in Python
 
-## DSA-Javascript
-* DSA-Javascript is expected to start on 1st July, 2022
-* Expected End Date 8th August, 2022
-* DSA-Javascript is the repo for all personal practice codes for Data Structures and Algos in Javascript 
-
 
 *I [tweet](https://twitter.com/kofi_tech) out my daily progress with the #100DaysOfCode hashtag.*
 
