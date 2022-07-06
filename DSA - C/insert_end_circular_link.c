@@ -37,8 +37,11 @@ int main()
         scanf("%d", &newnode -> data);
         newnode -> next = 0;
 
+        // tail -> next = newnode;
+        // newnode ->next = head;
+        // tail = newnode;
+        newnode -> next = tail -> next;
         tail -> next = newnode;
-        newnode ->next = head;
         tail = newnode;
 //printing and traversing
     tail = head;
