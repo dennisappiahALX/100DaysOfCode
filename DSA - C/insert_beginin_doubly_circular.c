@@ -35,8 +35,7 @@ int main()
     }
      tail -> next = head;
 
-     //inserting at the beginning
-
+//inserting at the beginning
     if (head == 0)
     {
         printf("can't insert\n");
