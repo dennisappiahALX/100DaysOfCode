@@ -30,6 +30,7 @@ int main()
         printf("Do you want to continue(0,1)?\n");
         scanf("%d", &choice);
     }
+ 
     //Delete node from end of linkedlist
     temp = head;
     while(temp ->next != 0)
