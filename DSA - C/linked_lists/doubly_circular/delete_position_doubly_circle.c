@@ -34,6 +34,7 @@ int main()
         scanf("%d", &choice);
     }
      temp -> next = head;
+    
 // position
     printf("enter position to insert:\n");
     scanf("%d", &position);
