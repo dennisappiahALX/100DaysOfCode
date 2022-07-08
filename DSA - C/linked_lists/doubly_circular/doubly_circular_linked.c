@@ -34,6 +34,7 @@ int main()
         scanf("%d", &choice);
     }
      temp -> next = head;
+    
 //traversing & printing values
 
     temp = head;
