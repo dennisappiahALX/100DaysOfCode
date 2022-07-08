@@ -32,7 +32,8 @@ int main()
         }
         printf("Do you want (0,1)?\n");
         scanf("%d", &choice);
-    }    
+    } 
+    
     printf("Traversing\n");
     temp = head;
     while(temp != 0)
