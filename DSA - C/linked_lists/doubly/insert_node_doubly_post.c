@@ -32,6 +32,7 @@ int main()
         printf("Do you want to continue(0,1)?\n");
         scanf("%d", &choice);
     }
+    
 //count of nodes in doubly linked list
     temp = head;
     while (temp != 0)
