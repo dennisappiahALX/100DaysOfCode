@@ -40,6 +40,7 @@ int main()
         currentnode = nextnode;
     }
     head = prevnode;
+    
 //After reverse
     currentnode = head;
     //Traversing & printing
