@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//creation of circular linked list
 int main()
 {
     struct node
