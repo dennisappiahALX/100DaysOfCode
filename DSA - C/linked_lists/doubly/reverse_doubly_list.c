@@ -34,7 +34,8 @@ int main()
         printf("Do you want to continue(0,1)?\n");
         scanf("%d", &choice);
     }
-// //Reversing linked list
+    
+   //Reversing linked list
         currentnode = head;
         while (currentnode != 0)
         {
