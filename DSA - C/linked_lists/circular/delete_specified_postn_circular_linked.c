@@ -32,7 +32,7 @@ int main()
         printf("Do you want to continue(0,1)?\n");
         scanf("%d", &choice);
     }
-//Delete node at specific position
+//Delete node at specificied position
     printf("Enter position you to delete\n");
     scanf("%d", &position);
 
