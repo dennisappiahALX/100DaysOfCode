@@ -11,6 +11,7 @@ int main()
     struct node *head, *newnode, *temp, *nextnode;
     int choice, position, i = 0;
     head = 0;
+    
     //creating linked list
     while(choice)
     {
