@@ -30,6 +30,7 @@ int main()
         printf("Do you want to continue(0,1)?\n");
         scanf("%d", &choice);
     }
+    
     newnode = (struct node *)malloc(sizeof(struct node));
     printf("Enter number at the begining of the node\n");
     scanf("%d", &newnode -> data);
