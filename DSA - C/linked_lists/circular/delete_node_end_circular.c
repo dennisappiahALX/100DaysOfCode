@@ -31,7 +31,7 @@ int main()
         scanf("%d", &choice);
     }
       tail -> next = head;
-//deleing node at end
+//deleting node at end
     tail = head;
     while (tail->next != head)
     {
