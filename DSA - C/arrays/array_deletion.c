@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//create array
 int main()
 {
     int a[50], size, number, position;
