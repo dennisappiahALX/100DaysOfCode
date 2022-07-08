@@ -31,7 +31,7 @@ int main()
         scanf("%d", &choice);
     }
       tail -> next = head;
-//deleing node at beginning
+//deleting node at beginning of linked list
     temp = head;
     head = temp -> next;
     tail -> next = head;
