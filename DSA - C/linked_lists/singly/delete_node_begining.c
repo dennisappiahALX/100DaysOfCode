@@ -8,6 +8,7 @@ int main()
         int data;
         struct node *next;
     };
+    
     struct node *head, *temp , *newnode;
     int choice;
     head = 0;
