@@ -30,6 +30,7 @@ int main()
         scanf("%d", &choice);
     }
     printf("Traversing");
+    
     temp = head;
     while (temp != 0)
     {
