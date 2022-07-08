@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//creating singly linked list
+//creating circular linked list
 int main()
 {
     struct node
