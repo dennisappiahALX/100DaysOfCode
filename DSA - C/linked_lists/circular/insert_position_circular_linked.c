@@ -60,7 +60,7 @@ int main()
         newnode -> next = temp -> next;
         temp ->next = newnode;
     }
-//traversing & printing
+//traversing & printing node data
     temp = head;
     while ( temp -> next != head)
     {
