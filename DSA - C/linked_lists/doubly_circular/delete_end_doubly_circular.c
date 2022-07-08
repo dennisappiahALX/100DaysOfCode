@@ -46,6 +46,7 @@ int main()
       tail -> next = head;
       free(temp);
     }
+    
 //traversing & printing values
 
     tail = head;
