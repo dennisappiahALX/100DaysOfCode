@@ -34,6 +34,7 @@ int main()
         scanf("%d", &choice);
     }
      temp -> next = head;
+    
 //counting nodes
     temp = head;
     while (temp->next != head)
