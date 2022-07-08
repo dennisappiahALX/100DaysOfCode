@@ -61,6 +61,7 @@ int main()
         newnode -> next = temp -> next;
         temp ->next = newnode;
     }
+    //printing & traversing
 
     temp = head;
     while ( temp !=0)
