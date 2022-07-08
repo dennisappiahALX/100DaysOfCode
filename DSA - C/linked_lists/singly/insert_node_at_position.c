@@ -28,7 +28,8 @@ int main()
         printf("Do you want to continue(0,1)?\n");
         scanf("%d", &choice);
     }
-    printf("Traversing");
+    
+    printf("Traversing\n");
     temp = head;
     while (temp != 0)
     {
