@@ -33,6 +33,7 @@ int main()
         printf("Do you want to continue(0,1)?\n");
         scanf("%d", &choice);
     }
+    
     newnode = (struct node*)malloc(sizeof(struct node));
     printf("enter data to insert\n");
     scanf("%d", &newnode ->data);
