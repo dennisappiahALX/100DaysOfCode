@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 //creating of linked list
 int main()
 {
