@@ -4,11 +4,11 @@
 
 int top = -1; int stack[SIZE];
 
-int push()
+int push(int x)
 {
-    int element;
-    printf("stack element\n");
-    scanf("%d", &element);
+    // int element;
+    // // printf("stack element\n");
+    // // scanf("%d", &element);
 
     if (top == SIZE - 1)
     {
@@ -17,7 +17,7 @@ int push()
     else
     {
         top++;                     
-        stack[top] = element;
+        stack[top] = x;
     }
     return 0;
 }
@@ -64,9 +64,9 @@ int display()
 
 int main()
 {
-    push();
-    push();
-    push();
+    push(2);
+    push(7);
+    push(9);
     pop();
     peek();
     display();
