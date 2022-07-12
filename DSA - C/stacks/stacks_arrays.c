@@ -6,10 +6,6 @@ int top = -1; int stack[SIZE];
 
 int push(int x)
 {
-    // int element;
-    // // printf("stack element\n");
-    // // scanf("%d", &element);
-
     if (top == SIZE - 1)
     {
         printf("overflow condition - can't push");
