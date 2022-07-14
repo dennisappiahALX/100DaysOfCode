@@ -18,8 +18,3 @@ void main()
     int a = 10;
     reversal(a);
 }
-
-//which file were y
-//I was using the virtual machine - ubuntu
-
-//But we can do it here
